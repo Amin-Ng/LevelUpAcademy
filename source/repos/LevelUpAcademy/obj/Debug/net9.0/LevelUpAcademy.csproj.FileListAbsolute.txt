@@ -1,0 +1,10 @@
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.csproj.AssemblyReference.cache
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.AssemblyInfoInputs.cache
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.AssemblyInfo.cs
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.csproj.CoreCompileInputs.cache
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.RazorAssemblyInfo.cache
+C:\Users\amina\source\repos\LevelUpAcademy\obj\Debug\net9.0\LevelUpAcademy.RazorAssemblyInfo.cs
